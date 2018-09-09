@@ -9,3 +9,10 @@
 body {
 background-color: #eeeeee;
 }
+
+.navbar-brand,
+.navbar-nav li a {
+    line-height: 150px;
+    height: 110px;
+    padding-top: 0;
+}
