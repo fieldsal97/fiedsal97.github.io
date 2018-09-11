@@ -6,14 +6,21 @@
 .mcs-horizontal-example .item{
   display: inline-block;
 }
-body {
-    margin: 70px;
-}	
-}
 
 .navbar-brand,
 .navbar-nav li a {
     line-height: 150px;
     height: 110px;
     padding-top: 0;
+}
+
+h1 {
+	margin-left: 70px;
+
+
+}
+h3 {
+	margin-left: 85px;
+
+
 }
