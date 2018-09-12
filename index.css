@@ -12,8 +12,20 @@ background-color: #eeeeee;
 
 .navbar-brand,
 .navbar-nav li a {
-    line-height: 150px;
-    height: 110px;
+    line-height: 200px;
+    height: 20px;
     padding-top: 0;
 }
+
+.column {
+	float: left;
+	width: 50%;
+	
+}
+.row:after {
+	content: "";
+	display: table;
+
+}
+
 
